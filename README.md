@@ -26,9 +26,10 @@ Hệ thống Quản lý Dân cư là một giải pháp thuộc hệ sinh thái 
 
 ### 1. Yêu cầu hệ thống (Prerequisites)
 Để chạy dự án trên môi trường cục bộ (local), hệ thống của bạn cần cài đặt:
-- **Node.js** (v18 trở lên) & npm
-- **Python** (v3.10 trở lên)
-- **PostgreSQL** & **Redis** (Cấu hình theo tiêu chuẩn của Frappe)
+- **Node.js** (Phiên bản >= 22)
+- **Python** (Phiên bản >= 3.14)
+- **PostgreSQL / Redis** (Dành cho Frappe Backend)
+- **Frappe Bench CLI 16**
 
 ---
 
