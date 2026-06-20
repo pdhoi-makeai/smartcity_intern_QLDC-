@@ -1,0 +1,16 @@
+{
+ "cors_cors_origins": [
+  "http://127.0.0.1:5173",
+  "http://localhost:5173"
+ ],
+ "db_name": "_bc51f441d50aa952",
+ "db_password": "qaZaQYl3Xfqbv98y",
+ "db_type": "postgres",
+ "db_user": "_bc51f441d50aa952",
+ "developer_mode": 1,
+ "encryption_key": "wcvlEuak74Zmbao745iADr8iHyUhujO_exnezhs8BXw=",
+ "redis_cache": "redis://localhost:13001",
+ "redis_queue": "redis://localhost:11001",
+ "redis_socketio": "redis://localhost:12001",
+ "use_openstreetmap": true
+}

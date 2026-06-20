@@ -1,0 +1,210 @@
+2026-05-28 16:43:25,050 ERROR frappe New Exception collected in error log
+Site: smartcity.localhost
+Form Dict: {'doctype': 'Quan Ly Cu Dan', 'fields': '["name", "full_name", "identity_card", "phone"]', 'cmd': 'frappe.client.get_list'}
+2026-05-28 16:43:25,089 ERROR frappe New Exception collected in error log
+Site: smartcity.localhost
+Form Dict: {'doctype': 'Quan Ly Cu Dan', 'fields': '["name", "full_name", "identity_card", "phone"]', 'cmd': 'frappe.client.get_list'}
+2026-05-28 16:43:33,914 ERROR frappe New Exception collected in error log
+Site: smartcity.localhost
+Form Dict: {'doctype': 'Quan Ly Cu Dan', 'fields': '["name", "full_name", "identity_card", "phone"]', 'cmd': 'frappe.client.get_list'}
+2026-05-28 16:43:33,930 ERROR frappe New Exception collected in error log
+Site: smartcity.localhost
+Form Dict: {'doctype': 'Quan Ly Cu Dan', 'fields': '["name", "full_name", "identity_card", "phone"]', 'cmd': 'frappe.client.get_list'}
+2026-05-28 16:44:04,977 ERROR frappe New Exception collected in error log
+Site: smartcity.localhost
+Form Dict: {'doctype': 'Quan Ly Cu Dan', 'fields': '["name", "full_name", "identity_card", "phone"]', 'cmd': 'frappe.client.get_list'}
+2026-05-28 16:44:04,991 ERROR frappe New Exception collected in error log
+Site: smartcity.localhost
+Form Dict: {'doctype': 'Quan Ly Cu Dan', 'fields': '["name", "full_name", "identity_card", "phone"]', 'cmd': 'frappe.client.get_list'}
+2026-05-28 16:44:05,005 ERROR frappe New Exception collected in error log
+Site: smartcity.localhost
+Form Dict: {'doctype': 'Quan Ly Cu Dan', 'fields': '["name", "full_name", "identity_card", "phone"]', 'cmd': 'frappe.client.get_list'}
+2026-05-28 16:44:05,020 ERROR frappe New Exception collected in error log
+Site: smartcity.localhost
+Form Dict: {'doctype': 'Quan Ly Cu Dan', 'fields': '["name", "full_name", "identity_card", "phone"]', 'cmd': 'frappe.client.get_list'}
+2026-05-28 16:49:18,926 ERROR frappe New Exception collected in error log
+Site: smartcity.localhost
+Form Dict: {'doctype': 'Resident', 'fields': '["name", "full_name", "cccd", "gender", "phone", "residency_status"]', 'cmd': 'frappe.client.get_list'}
+2026-05-28 16:49:18,942 ERROR frappe New Exception collected in error log
+Site: smartcity.localhost
+Form Dict: {'doctype': 'Resident', 'fields': '["name", "full_name", "cccd", "gender", "phone", "residency_status"]', 'cmd': 'frappe.client.get_list'}
+2026-05-28 16:49:19,476 ERROR frappe New Exception collected in error log
+Site: smartcity.localhost
+Form Dict: {'doctype': 'Household', 'filters': '[["status", "=", "Đã định vị"]]', 'fields': '["name", "head_name", "address", "latitude", "longitude"]', 'cmd': 'frappe.client.get_list'}
+2026-05-28 16:49:19,791 ERROR frappe New Exception collected in error log
+Site: smartcity.localhost
+Form Dict: {'doctype': 'Household', 'filters': '[["status", "=", "Đã định vị"]]', 'fields': '["name", "head_name", "address", "latitude", "longitude"]', 'cmd': 'frappe.client.get_list'}
+2026-05-28 16:49:42,016 ERROR frappe New Exception collected in error log
+Site: smartcity.localhost
+Form Dict: {'doctype': 'Household', 'filters': '[["status", "=", "Đã định vị"]]', 'fields': '["name", "head_name", "address", "latitude", "longitude"]', 'cmd': 'frappe.client.get_list'}
+2026-05-28 16:49:42,279 ERROR frappe New Exception collected in error log
+Site: smartcity.localhost
+Form Dict: {'doctype': 'Household', 'filters': '[["status", "=", "Đã định vị"]]', 'fields': '["name", "head_name", "address", "latitude", "longitude"]', 'cmd': 'frappe.client.get_list'}
+2026-05-28 16:49:42,975 ERROR frappe New Exception collected in error log
+Site: smartcity.localhost
+Form Dict: {'doctype': 'Household', 'filters': '[["status", "=", "Đã định vị"]]', 'fields': '["name", "head_name", "address", "latitude", "longitude"]', 'cmd': 'frappe.client.get_list'}
+2026-05-28 16:49:43,294 ERROR frappe New Exception collected in error log
+Site: smartcity.localhost
+Form Dict: {'doctype': 'Household', 'filters': '[["status", "=", "Đã định vị"]]', 'fields': '["name", "head_name", "address", "latitude", "longitude"]', 'cmd': 'frappe.client.get_list'}
+2026-05-28 16:49:43,755 ERROR frappe New Exception collected in error log
+Site: smartcity.localhost
+Form Dict: {'doctype': 'Resident', 'fields': '["name", "full_name", "cccd", "gender", "phone", "residency_status"]', 'cmd': 'frappe.client.get_list'}
+2026-05-28 16:49:44,010 ERROR frappe New Exception collected in error log
+Site: smartcity.localhost
+Form Dict: {'doctype': 'Resident', 'fields': '["name", "full_name", "cccd", "gender", "phone", "residency_status"]', 'cmd': 'frappe.client.get_list'}
+2026-05-28 16:49:44,646 ERROR frappe New Exception collected in error log
+Site: smartcity.localhost
+Form Dict: {'doctype': 'Resident', 'fields': '["name", "full_name", "cccd", "gender", "phone", "residency_status"]', 'cmd': 'frappe.client.get_list'}
+2026-05-28 16:49:44,966 ERROR frappe New Exception collected in error log
+Site: smartcity.localhost
+Form Dict: {'doctype': 'Resident', 'fields': '["name", "full_name", "cccd", "gender", "phone", "residency_status"]', 'cmd': 'frappe.client.get_list'}
+2026-05-28 16:49:45,778 ERROR frappe New Exception collected in error log
+Site: smartcity.localhost
+Form Dict: {'doctype': 'Household', 'filters': '[["status", "=", "Đã định vị"]]', 'fields': '["name", "head_name", "address", "latitude", "longitude"]', 'cmd': 'frappe.client.get_list'}
+2026-05-28 16:49:46,038 ERROR frappe New Exception collected in error log
+Site: smartcity.localhost
+Form Dict: {'doctype': 'Household', 'filters': '[["status", "=", "Đã định vị"]]', 'fields': '["name", "head_name", "address", "latitude", "longitude"]', 'cmd': 'frappe.client.get_list'}
+2026-05-28 16:49:49,326 ERROR frappe New Exception collected in error log
+Site: smartcity.localhost
+Form Dict: {'doctype': 'Resident', 'fields': '["name", "full_name", "cccd", "gender", "phone", "residency_status"]', 'cmd': 'frappe.client.get_list'}
+2026-05-28 16:49:49,648 ERROR frappe New Exception collected in error log
+Site: smartcity.localhost
+Form Dict: {'doctype': 'Resident', 'fields': '["name", "full_name", "cccd", "gender", "phone", "residency_status"]', 'cmd': 'frappe.client.get_list'}
+2026-05-28 16:49:49,987 ERROR frappe New Exception collected in error log
+Site: smartcity.localhost
+Form Dict: {'doctype': 'Household', 'filters': '[["status", "=", "Đã định vị"]]', 'fields': '["name", "head_name", "address", "latitude", "longitude"]', 'cmd': 'frappe.client.get_list'}
+2026-05-28 16:49:50,248 ERROR frappe New Exception collected in error log
+Site: smartcity.localhost
+Form Dict: {'doctype': 'Household', 'filters': '[["status", "=", "Đã định vị"]]', 'fields': '["name", "head_name", "address", "latitude", "longitude"]', 'cmd': 'frappe.client.get_list'}
+2026-05-28 16:50:27,256 ERROR frappe New Exception collected in error log
+Site: smartcity.localhost
+Form Dict: {'doctype': 'Resident', 'fields': '["name", "full_name", "cccd", "gender", "phone", "residency_status"]', 'cmd': 'frappe.client.get_list'}
+2026-05-28 16:50:27,274 ERROR frappe New Exception collected in error log
+Site: smartcity.localhost
+Form Dict: {'doctype': 'Resident', 'fields': '["name", "full_name", "cccd", "gender", "phone", "residency_status"]', 'cmd': 'frappe.client.get_list'}
+2026-05-28 16:50:56,821 ERROR frappe New Exception collected in error log
+Site: smartcity.localhost
+Form Dict: {'doctype': 'Resident', 'fields': '["name", "full_name", "cccd", "gender", "phone", "residency_status"]', 'cmd': 'frappe.client.get_list'}
+2026-05-28 16:50:56,838 ERROR frappe New Exception collected in error log
+Site: smartcity.localhost
+Form Dict: {'doctype': 'Resident', 'fields': '["name", "full_name", "cccd", "gender", "phone", "residency_status"]', 'cmd': 'frappe.client.get_list'}
+2026-05-28 16:51:08,543 ERROR frappe New Exception collected in error log
+Site: smartcity.localhost
+Form Dict: {'doctype': 'Resident', 'fields': '["name", "full_name", "cccd", "gender", "phone", "residency_status"]', 'cmd': 'frappe.client.get_list'}
+2026-05-28 16:51:08,804 ERROR frappe New Exception collected in error log
+Site: smartcity.localhost
+Form Dict: {'doctype': 'Resident', 'fields': '["name", "full_name", "cccd", "gender", "phone", "residency_status"]', 'cmd': 'frappe.client.get_list'}
+2026-05-28 17:00:14,351 ERROR frappe New Exception collected in error log
+Site: smartcity.localhost
+Form Dict: {'doctype': 'Resident', 'fields': '["name", "full_name", "cccd", "gender", "phone", "residency_status"]', 'cmd': 'frappe.client.get_list'}
+2026-05-28 17:00:14,377 ERROR frappe New Exception collected in error log
+Site: smartcity.localhost
+Form Dict: {'doctype': 'Resident', 'fields': '["name", "full_name", "cccd", "gender", "phone", "residency_status"]', 'cmd': 'frappe.client.get_list'}
+2026-05-28 17:00:17,279 ERROR frappe New Exception collected in error log
+Site: smartcity.localhost
+Form Dict: {'doctype': 'Resident', 'fields': '["name", "full_name", "cccd", "gender", "phone", "residency_status"]', 'cmd': 'frappe.client.get_list'}
+2026-05-28 17:00:17,517 ERROR frappe New Exception collected in error log
+Site: smartcity.localhost
+Form Dict: {'doctype': 'Resident', 'fields': '["name", "full_name", "cccd", "gender", "phone", "residency_status"]', 'cmd': 'frappe.client.get_list'}
+2026-05-28 17:14:29,164 ERROR frappe New Exception collected in error log
+Site: smartcity.localhost
+Form Dict: {'doctype': 'Resident', 'fields': '["name", "full_name", "cccd", "gender", "phone", "residency_status"]', 'cmd': 'frappe.client.get_list'}
+2026-05-28 17:14:29,193 ERROR frappe New Exception collected in error log
+Site: smartcity.localhost
+Form Dict: {'doctype': 'Resident', 'fields': '["name", "full_name", "cccd", "gender", "phone", "residency_status"]', 'cmd': 'frappe.client.get_list'}
+2026-05-28 17:30:55,854 ERROR frappe New Exception collected in error log
+Site: smartcity.localhost
+Form Dict: {'doctype': 'Resident', 'fields': '["name", "full_name", "cccd", "gender", "phone", "residency_status"]', 'cmd': 'frappe.client.get_list'}
+2026-05-28 17:30:56,063 ERROR frappe New Exception collected in error log
+Site: smartcity.localhost
+Form Dict: {'doctype': 'Resident', 'fields': '["name", "full_name", "cccd", "gender", "phone", "residency_status"]', 'cmd': 'frappe.client.get_list'}
+2026-05-28 17:31:01,784 ERROR frappe New Exception collected in error log
+Site: smartcity.localhost
+Form Dict: {'doctype': 'Resident', 'fields': '["name", "full_name", "cccd", "gender", "phone", "residency_status"]', 'cmd': 'frappe.client.get_list'}
+2026-05-28 17:31:02,048 ERROR frappe New Exception collected in error log
+Site: smartcity.localhost
+Form Dict: {'doctype': 'Resident', 'fields': '["name", "full_name", "cccd", "gender", "phone", "residency_status"]', 'cmd': 'frappe.client.get_list'}
+2026-05-29 09:20:38,849 ERROR frappe New Exception collected in error log
+Site: smartcity.localhost
+Form Dict: {'doctype': 'Resident', 'fields': '["name", "full_name", "cccd", "gender", "phone", "residency_status"]', 'cmd': 'frappe.client.get_list'}
+2026-05-29 09:20:38,871 ERROR frappe New Exception collected in error log
+Site: smartcity.localhost
+Form Dict: {'doctype': 'Resident', 'fields': '["name", "full_name", "cccd", "gender", "phone", "residency_status"]', 'cmd': 'frappe.client.get_list'}
+2026-05-29 09:20:42,183 ERROR frappe New Exception collected in error log
+Site: smartcity.localhost
+Form Dict: {'doctype': 'Resident', 'fields': '["name", "full_name", "cccd", "gender", "phone", "residency_status"]', 'cmd': 'frappe.client.get_list'}
+2026-05-29 09:20:42,201 ERROR frappe New Exception collected in error log
+Site: smartcity.localhost
+Form Dict: {'doctype': 'Resident', 'fields': '["name", "full_name", "cccd", "gender", "phone", "residency_status"]', 'cmd': 'frappe.client.get_list'}
+2026-05-29 09:53:18,670 ERROR frappe New Exception collected in error log
+Site: smartcity.localhost
+Form Dict: {'cmd': 'flying_class.flying_class.api.get_user_info'}
+2026-05-29 09:53:18,702 ERROR frappe New Exception collected in error log
+Site: smartcity.localhost
+Form Dict: {'cmd': 'flying_class.flying_class.api.get_user_info'}
+2026-05-29 09:53:53,468 ERROR frappe New Exception collected in error log
+Site: smartcity.localhost
+Form Dict: {'usr': 'ainhannhanho49@gmail.com', 'pwd': '********', 'cmd': 'flying_class.flying_class.api_auth.custom_login'}
+2026-05-29 09:53:55,804 ERROR frappe New Exception collected in error log
+Site: smartcity.localhost
+Form Dict: {'usr': 'ainhannhanho49@gmail.com', 'pwd': '********', 'cmd': 'flying_class.flying_class.api_auth.custom_login'}
+2026-05-29 09:54:00,903 ERROR frappe New Exception collected in error log
+Site: smartcity.localhost
+Form Dict: {'usr': 'ainhannhanho49@gmail.com', 'pwd': '********', 'cmd': 'flying_class.flying_class.api_auth.custom_login'}
+2026-05-29 09:54:01,753 ERROR frappe New Exception collected in error log
+Site: smartcity.localhost
+Form Dict: {'usr': 'ainhannhanho49@gmail.com', 'pwd': '********', 'cmd': 'flying_class.flying_class.api_auth.custom_login'}
+2026-05-29 09:54:03,989 ERROR frappe New Exception collected in error log
+Site: smartcity.localhost
+Form Dict: {'usr': 'ainhannhanho49@gmail.com', 'pwd': '********', 'cmd': 'flying_class.flying_class.api_auth.custom_login'}
+2026-05-29 09:54:14,774 ERROR frappe New Exception collected in error log
+Site: smartcity.localhost
+Form Dict: {'usr': 'ngovanhuy200905@gmail.com', 'pwd': '********', 'cmd': 'flying_class.flying_class.api_auth.custom_login'}
+2026-05-29 09:54:17,078 ERROR frappe New Exception collected in error log
+Site: smartcity.localhost
+Form Dict: {'usr': 'ngovanhuy200905@gmail.com', 'pwd': '********', 'cmd': 'flying_class.flying_class.api_auth.custom_login'}
+2026-05-29 09:54:18,028 ERROR frappe New Exception collected in error log
+Site: smartcity.localhost
+Form Dict: {'usr': 'ngovanhuy200905@gmail.com', 'pwd': '********', 'cmd': 'flying_class.flying_class.api_auth.custom_login'}
+2026-05-29 09:54:45,376 ERROR frappe New Exception collected in error log
+Site: smartcity.localhost
+Form Dict: {'usr': 'admin@flyingclass.com', 'pwd': '********', 'cmd': 'flying_class.flying_class.api_auth.custom_login'}
+2026-05-29 09:54:46,455 ERROR frappe New Exception collected in error log
+Site: smartcity.localhost
+Form Dict: {'usr': 'admin@flyingclass.com', 'pwd': '********', 'cmd': 'flying_class.flying_class.api_auth.custom_login'}
+2026-05-29 09:54:46,987 ERROR frappe New Exception collected in error log
+Site: smartcity.localhost
+Form Dict: {'usr': 'admin@flyingclass.com', 'pwd': '********', 'cmd': 'flying_class.flying_class.api_auth.custom_login'}
+2026-05-29 09:54:47,855 ERROR frappe New Exception collected in error log
+Site: smartcity.localhost
+Form Dict: {'usr': 'admin@flyingclass.com', 'pwd': '********', 'cmd': 'flying_class.flying_class.api_auth.custom_login'}
+2026-05-29 09:54:48,259 ERROR frappe New Exception collected in error log
+Site: smartcity.localhost
+Form Dict: {'usr': 'admin@flyingclass.com', 'pwd': '********', 'cmd': 'flying_class.flying_class.api_auth.custom_login'}
+2026-05-29 09:54:49,042 ERROR frappe New Exception collected in error log
+Site: smartcity.localhost
+Form Dict: {'usr': 'admin@flyingclass.com', 'pwd': '********', 'cmd': 'flying_class.flying_class.api_auth.custom_login'}
+2026-05-29 10:38:01,244 ERROR frappe New Exception collected in error log
+Site: smartcity.localhost
+Form Dict: {'doctype': 'Resident', 'fields': '["name","full_name","age","gender","cccd","household"]', 'filters': '[["status","=","Thường trú"]]', 'limit_page_length': '0', 'cmd': 'frappe.client.get_list'}
+2026-05-29 10:38:03,622 ERROR frappe New Exception collected in error log
+Site: smartcity.localhost
+Form Dict: {'doctype': 'Resident', 'fields': '["name","full_name","age","gender","cccd","household"]', 'filters': '[["status","=","Thường trú"]]', 'limit_page_length': '0', 'cmd': 'frappe.client.get_list'}
+2026-05-29 10:41:07,456 ERROR frappe New Exception collected in error log
+Site: smartcity.localhost
+Form Dict: {'doctype': 'Resident', 'fields': '["name","full_name","age","gender","cccd","household"]', 'filters': '[["status","=","Thường trú"]]', 'limit_page_length': '0', 'cmd': 'frappe.client.get_list'}
+2026-05-30 10:06:13,766 ERROR frappe New Exception collected in error log
+Site: smartcity.localhost
+Form Dict: {'doctype': 'Resident', 'fields': '["name","full_name","cccd","dob","household"]', 'filters': '[["cccd","=","\t48000001298"]]', 'cmd': 'frappe.client.get_list'}
+2026-06-18 15:12:31,747 ERROR frappe New Exception collected in error log
+Site: smartcity.localhost
+Form Dict: {'doctype': 'Resident', 'fields': '["name","full_name","cccd","dob","household"]', 'filters': '[["cccd","=","\t48000001298"]]', 'cmd': 'frappe.client.get_list'}
+2026-06-18 15:12:33,468 ERROR frappe New Exception collected in error log
+Site: smartcity.localhost
+Form Dict: {'doctype': 'Resident', 'fields': '["name","full_name","cccd","dob","household"]', 'filters': '[["cccd","=","\t48000001298"]]', 'cmd': 'frappe.client.get_list'}
+2026-06-19 10:24:07,299 ERROR frappe New Exception collected in error log
+Site: smartcity.localhost
+Form Dict: {'doctype': 'Neighborhood', 'name': '1144', 'cmd': 'frappe.client.delete'}
+2026-06-19 10:24:09,667 ERROR frappe New Exception collected in error log
+Site: smartcity.localhost
+Form Dict: {'doctype': 'Neighborhood', 'name': '1144', 'cmd': 'frappe.client.delete'}

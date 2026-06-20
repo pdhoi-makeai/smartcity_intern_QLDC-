@@ -1,0 +1,21 @@
+{
+    "frappe": {
+        "resolution": {
+            "commit_hash": null,
+            "branch": null
+        },
+        "required": [],
+        "idx": 1,
+        "version": "16.19.0"
+    },
+    "quan_ly_dan_cu": {
+        "is_repo": true,
+        "resolution": {
+            "commit_hash": "758f85de3ebd9ad9eddea0a97c5363eb391c0d65",
+            "branch": "mit"
+        },
+        "required": [],
+        "idx": 2,
+        "version": "0.0.1"
+    }
+}

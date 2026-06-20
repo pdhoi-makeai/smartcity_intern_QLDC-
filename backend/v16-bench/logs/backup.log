@@ -1,0 +1,84 @@
+set -o pipefail; /usr/bin/pg_dump postgresql://_bc51f441d50aa952:**********@127.0.0.1:5432/_bc51f441d50aa952 | /usr/bin/gzip >> ./smartcity.localhost/private/backups/20260529_103002-smartcity_localhost-database.sql.gz
+
+Backup Summary for smartcity.localhost at 2026-05-29 10:30:02.699454
+Config  : /home/user/Smart_City_V2/backend/v16-bench/sites/smartcity.localhost/private/backups/20260529_103002-smartcity_localhost-site_config_backup.json 458.0B
+Database: /home/user/Smart_City_V2/backend/v16-bench/sites/smartcity.localhost/private/backups/20260529_103002-smartcity_localhost-database.sql.gz 614.0KiB
+Backup for Site smartcity.localhost has been successfully completed
+set -o pipefail; /usr/bin/pg_dump postgresql://_bc51f441d50aa952:**********@127.0.0.1:5432/_bc51f441d50aa952 | /usr/bin/gzip >> ./smartcity.localhost/private/backups/20260530_223002-smartcity_localhost-database.sql.gz
+
+Backup Summary for smartcity.localhost at 2026-05-30 22:30:02.849712
+Config  : /home/user/Smart_City_V2/backend/v16-bench/sites/smartcity.localhost/private/backups/20260530_223002-smartcity_localhost-site_config_backup.json 458.0B
+Database: /home/user/Smart_City_V2/backend/v16-bench/sites/smartcity.localhost/private/backups/20260530_223002-smartcity_localhost-database.sql.gz 713.7KiB
+Backup for Site smartcity.localhost has been successfully completed
+set -o pipefail; /usr/bin/pg_dump postgresql://_bc51f441d50aa952:**********@127.0.0.1:5432/_bc51f441d50aa952 | /usr/bin/gzip >> ./smartcity.localhost/private/backups/20260531_043002-smartcity_localhost-database.sql.gz
+
+Backup Summary for smartcity.localhost at 2026-05-31 04:30:02.994387
+Config  : /home/user/Smart_City_V2/backend/v16-bench/sites/smartcity.localhost/private/backups/20260531_043002-smartcity_localhost-site_config_backup.json 458.0B
+Database: /home/user/Smart_City_V2/backend/v16-bench/sites/smartcity.localhost/private/backups/20260531_043002-smartcity_localhost-database.sql.gz 713.6KiB
+Backup for Site smartcity.localhost has been successfully completed
+set -o pipefail; /usr/bin/pg_dump postgresql://_bc51f441d50aa952:**********@127.0.0.1:5432/_bc51f441d50aa952 | /usr/bin/gzip >> ./smartcity.localhost/private/backups/20260531_103002-smartcity_localhost-database.sql.gz
+
+Backup Summary for smartcity.localhost at 2026-05-31 10:30:02.961888
+Config  : /home/user/Smart_City_V2/backend/v16-bench/sites/smartcity.localhost/private/backups/20260531_103002-smartcity_localhost-site_config_backup.json 458.0B
+Database: /home/user/Smart_City_V2/backend/v16-bench/sites/smartcity.localhost/private/backups/20260531_103002-smartcity_localhost-database.sql.gz 713.7KiB
+Backup for Site smartcity.localhost has been successfully completed
+set -o pipefail; /usr/bin/pg_dump postgresql://_bc51f441d50aa952:**********@127.0.0.1:5432/_bc51f441d50aa952 | /usr/bin/gzip >> ./smartcity.localhost/private/backups/20260601_103009-smartcity_localhost-database.sql.gz
+
+Backup Summary for smartcity.localhost at 2026-06-01 10:30:12.366693
+Config  : /home/user/Smart_City_V2/backend/v16-bench/sites/smartcity.localhost/private/backups/20260601_103009-smartcity_localhost-site_config_backup.json 458.0B
+Database: /home/user/Smart_City_V2/backend/v16-bench/sites/smartcity.localhost/private/backups/20260601_103009-smartcity_localhost-database.sql.gz 713.7KiB
+Backup for Site smartcity.localhost has been successfully completed
+set -o pipefail; /usr/bin/pg_dump postgresql://_bc51f441d50aa952:**********@127.0.0.1:5432/_bc51f441d50aa952 | /usr/bin/gzip >> ./smartcity.localhost/private/backups/20260605_103002-smartcity_localhost-database.sql.gz
+
+Backup Summary for smartcity.localhost at 2026-06-05 10:30:02.770360
+Config  : /home/user/Smart_City_V2/backend/v16-bench/sites/smartcity.localhost/private/backups/20260605_103002-smartcity_localhost-site_config_backup.json 458.0B
+Database: /home/user/Smart_City_V2/backend/v16-bench/sites/smartcity.localhost/private/backups/20260605_103002-smartcity_localhost-database.sql.gz 715.9KiB
+Backup for Site smartcity.localhost has been successfully completed
+set -o pipefail; /usr/bin/pg_dump postgresql://_bc51f441d50aa952:**********@127.0.0.1:5432/_bc51f441d50aa952 | /usr/bin/gzip >> ./smartcity.localhost/private/backups/20260605_163002-smartcity_localhost-database.sql.gz
+
+Backup Summary for smartcity.localhost at 2026-06-05 16:30:02.501436
+Config  : /home/user/Smart_City_V2/backend/v16-bench/sites/smartcity.localhost/private/backups/20260605_163002-smartcity_localhost-site_config_backup.json 458.0B
+Database: /home/user/Smart_City_V2/backend/v16-bench/sites/smartcity.localhost/private/backups/20260605_163002-smartcity_localhost-database.sql.gz 715.9KiB
+Backup for Site smartcity.localhost has been successfully completed
+set -o pipefail; /usr/bin/pg_dump postgresql://_bc51f441d50aa952:**********@127.0.0.1:5432/_bc51f441d50aa952 | /usr/bin/gzip >> ./smartcity.localhost/private/backups/20260606_163002-smartcity_localhost-database.sql.gz
+
+Backup Summary for smartcity.localhost at 2026-06-06 16:30:02.817320
+Config  : /home/user/Smart_City_V2/backend/v16-bench/sites/smartcity.localhost/private/backups/20260606_163002-smartcity_localhost-site_config_backup.json 458.0B
+Database: /home/user/Smart_City_V2/backend/v16-bench/sites/smartcity.localhost/private/backups/20260606_163002-smartcity_localhost-database.sql.gz 715.9KiB
+Backup for Site smartcity.localhost has been successfully completed
+set -o pipefail; /usr/bin/pg_dump postgresql://_bc51f441d50aa952:**********@127.0.0.1:5432/_bc51f441d50aa952 | /usr/bin/gzip >> ./smartcity.localhost/private/backups/20260608_103001-smartcity_localhost-database.sql.gz
+
+Backup Summary for smartcity.localhost at 2026-06-08 10:30:02.516732
+Config  : /home/user/Smart_City_V2/backend/v16-bench/sites/smartcity.localhost/private/backups/20260608_103001-smartcity_localhost-site_config_backup.json 458.0B
+Database: /home/user/Smart_City_V2/backend/v16-bench/sites/smartcity.localhost/private/backups/20260608_103001-smartcity_localhost-database.sql.gz 712.7KiB
+Backup for Site smartcity.localhost has been successfully completed
+set -o pipefail; /usr/bin/pg_dump postgresql://_bc51f441d50aa952:**********@127.0.0.1:5432/_bc51f441d50aa952 | /usr/bin/gzip >> ./smartcity.localhost/private/backups/20260609_103002-smartcity_localhost-database.sql.gz
+
+Backup Summary for smartcity.localhost at 2026-06-09 10:30:03.087899
+Config  : /home/user/Smart_City_V2/backend/v16-bench/sites/smartcity.localhost/private/backups/20260609_103002-smartcity_localhost-site_config_backup.json 458.0B
+Database: /home/user/Smart_City_V2/backend/v16-bench/sites/smartcity.localhost/private/backups/20260609_103002-smartcity_localhost-database.sql.gz 713.5KiB
+Backup for Site smartcity.localhost has been successfully completed
+set -o pipefail; /usr/bin/pg_dump postgresql://_bc51f441d50aa952:**********@127.0.0.1:5432/_bc51f441d50aa952 | /usr/bin/gzip >> ./smartcity.localhost/private/backups/20260611_043003-smartcity_localhost-database.sql.gz
+
+Backup Summary for smartcity.localhost at 2026-06-11 04:30:03.974046
+Config  : /home/user/Smart_City_V2/backend/v16-bench/sites/smartcity.localhost/private/backups/20260611_043003-smartcity_localhost-site_config_backup.json 458.0B
+Database: /home/user/Smart_City_V2/backend/v16-bench/sites/smartcity.localhost/private/backups/20260611_043003-smartcity_localhost-database.sql.gz 713.5KiB
+Backup for Site smartcity.localhost has been successfully completed
+set -o pipefail; /usr/bin/pg_dump postgresql://_bc51f441d50aa952:**********@127.0.0.1:5432/_bc51f441d50aa952 | /usr/bin/gzip >> ./smartcity.localhost/private/backups/20260617_103002-smartcity_localhost-database.sql.gz
+
+Backup Summary for smartcity.localhost at 2026-06-17 10:30:02.916023
+Config  : /home/user/Smart_City_V2/backend/v16-bench/sites/smartcity.localhost/private/backups/20260617_103002-smartcity_localhost-site_config_backup.json 458.0B
+Database: /home/user/Smart_City_V2/backend/v16-bench/sites/smartcity.localhost/private/backups/20260617_103002-smartcity_localhost-database.sql.gz 700.6KiB
+Backup for Site smartcity.localhost has been successfully completed
+set -o pipefail; /usr/bin/pg_dump postgresql://_bc51f441d50aa952:**********@127.0.0.1:5432/_bc51f441d50aa952 | /usr/bin/gzip >> ./smartcity.localhost/private/backups/20260618_103002-smartcity_localhost-database.sql.gz
+
+Backup Summary for smartcity.localhost at 2026-06-18 10:30:02.625973
+Config  : /home/user/Smart_City_V2/backend/v16-bench/sites/smartcity.localhost/private/backups/20260618_103002-smartcity_localhost-site_config_backup.json 458.0B
+Database: /home/user/Smart_City_V2/backend/v16-bench/sites/smartcity.localhost/private/backups/20260618_103002-smartcity_localhost-database.sql.gz 723.8KiB
+Backup for Site smartcity.localhost has been successfully completed
+set -o pipefail; /usr/bin/pg_dump postgresql://_bc51f441d50aa952:**********@127.0.0.1:5432/_bc51f441d50aa952 | /usr/bin/gzip >> ./smartcity.localhost/private/backups/20260619_103002-smartcity_localhost-database.sql.gz
+
+Backup Summary for smartcity.localhost at 2026-06-19 10:30:03.229123
+Config  : /home/user/Smart_City_V2/backend/v16-bench/sites/smartcity.localhost/private/backups/20260619_103002-smartcity_localhost-site_config_backup.json 458.0B
+Database: /home/user/Smart_City_V2/backend/v16-bench/sites/smartcity.localhost/private/backups/20260619_103002-smartcity_localhost-database.sql.gz 789.9KiB
+Backup for Site smartcity.localhost has been successfully completed
