@@ -14,7 +14,7 @@ Hệ thống Quản lý Dân cư là một giải pháp thuộc hệ sinh thái 
 
 ## 🛠 Tech Stack (Công Nghệ)
 
-- **Backend:** Frappe Framework v16, Python, MariaDB, Redis. 
+- **Backend:** Frappe Framework v16, Python, PostgreSQL, Redis. 
   - App chính: `quan_ly_dan_cu`
 - **Frontend:** React 18, Vite, TypeScript, TailwindCSS v4, Microsoft Fluent UI.
   - Quản lý State/Data: Zustand, React Query.
@@ -28,29 +28,26 @@ Hệ thống Quản lý Dân cư là một giải pháp thuộc hệ sinh thái 
 Để chạy dự án trên môi trường cục bộ (local), hệ thống của bạn cần cài đặt:
 - **Node.js** (v18 trở lên) & npm
 - **Python** (v3.10 trở lên)
-- **MariaDB** & **Redis** (Cấu hình theo tiêu chuẩn của Frappe)
-- **Frappe Bench CLI**
+- **PostgreSQL** & **Redis** (Cấu hình theo tiêu chuẩn của Frappe)
 
 ---
 
 ### 2. Cài Đặt Backend (Frappe v16)
 
-Mã nguồn backend và môi trường Frappe được đặt tại thư mục `backend/v16-bench`.
+Mã nguồn backend và môi trường Frappe được đặt tại thư mục `backend/v16-bench`. 
 
 **Bước 1: Khởi động các dịch vụ phụ trợ**
-Hãy chắc chắn rằng dịch vụ `mariadb` và `redis-server` đang hoạt động trên máy của bạn.
+Hãy chắc chắn rằng dịch vụ `postgresql` và `redis-server` đang hoạt động trên máy của bạn.
 
-**Bước 2: Cài đặt Dependencies và khởi động Bench**
-Mở terminal, truy cập vào thư mục chứa bench và chạy lệnh khởi động:
+**Bước 2: Khởi động Backend**
+Dự án đã được thiết lập sẵn trong thư mục bench. Bạn chỉ cần truy cập vào thư mục `backend/v16-bench` và khởi động (có thể sử dụng lệnh bench hoặc procfile tuỳ hệ thống):
 ```bash
 cd backend/v16-bench
 bench start
 ```
-*Ghi chú:* Hệ thống mặc định đã có site `smartcity.localhost`. Nếu gặp lỗi kết nối CSDL, bạn có thể thiết lập mật khẩu MariaDB theo thông tin trong `common_site_config.json`, hoặc cài đặt lại site mới bằng lệnh:
-```bash
-bench new-site mysite.local
-bench --site mysite.local install-app quan_ly_dan_cu
-```
+*Ghi chú:* 
+- Hệ thống mặc định chạy API ở port **8001**.
+- Cấu hình cơ sở dữ liệu (PostgreSQL) được đặt tại `sites/smartcity.localhost/site_config.json`. Nếu cần, bạn có thể kiểm tra và cập nhật `db_password` cho phù hợp với máy của bạn.
 
 ---
 
@@ -65,12 +62,8 @@ cd frontend
 npm install
 ```
 
-**Bước 2: Cấu hình biến môi trường**
-Bạn cần thiết lập file `.env` (tạo mới nếu chưa có) trong thư mục `frontend/` để trỏ API call về backend. Nội dung ví dụ:
-```env
-VITE_API_URL=http://smartcity.localhost:8000
-```
-*(Thay thế URL trên bằng địa chỉ site backend thực tế của bạn nếu khác)*
+**Bước 2: Cấu hình Backend Proxy**
+Vite đã được cấu hình tự động proxy các request `/api` và `/method` sang `http://localhost:8001` (backend Frappe). 
 
 **Bước 3: Khởi chạy môi trường phát triển (Dev Server)**
 Chạy lệnh sau để khởi động frontend:
